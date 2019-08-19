@@ -1,0 +1,66 @@
+# Env
+/.env
+
+
+# Composer
+/vendor
+composer.phar
+composer.lock
+
+# JS
+node_modules
+spa/npm-debug.log
+spa/yarn-error.log
+
+# IDE
+.idea
+nbproject
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit
+phpunit.phar
+/phpunit.xml
+
+# Vagrant
+/.vagrant
+
+# Tests
+tests/codeception/*/_support/_generated/*
+
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# npm
+node_modules
+*.log
+*.gz
+
+# Coveralls
+coverage
+
+# IDEs
+.vscode
+.idea
+
+# folders
+build/
+logs/
